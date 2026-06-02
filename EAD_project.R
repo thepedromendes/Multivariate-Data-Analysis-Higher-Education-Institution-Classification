@@ -1,7 +1,7 @@
 # ============================================================
 # PROJECTO EAD — ANÁLISE MULTIVARIADA
 # LDA, QDA, Regressão Logística, KNN, PCA e Clustering
-# Autora: Margarida Pessoa
+# Autora: Pedro Mendes
 # ============================================================
 
 packages <- c(
