@@ -35,6 +35,7 @@ To ensure the reproducibility of the script, please make sure you maintain the f
 
 ```text
 ├── EAD_project.R              # Main R script
+├── EAD_report.pdf
 ├── Data/
 │   └── volis_dataset.csv      # Original dataset containing the institutions
 ├── figures/                   # Automatically generated: Charts and ROC Curves
